@@ -1,0 +1,17 @@
+Essa atividade deverá utilizar o banco de dados cursos_alunos. O mesmo da ultima atividade.
+
+
+Primeiramente você deverá executar o programa para conseguir entender o que ele está fazendo.
+
+Em seguida deverá editar o programa para responder as seguintes questões:
+
+Questão 1:
+Ao tentar executar o programa e pedir para ele gerar duas validações com "maior que", o programa gera uma com "maior que" e a outra com "menor que".
+Descubra e corrija o problema
+
+Questão 2:
+Ao tentar executar o programa e pedir para ele gerar uma validação com uma nacionalidade igual ao valor que você escrever, ele irá dar uma erro.
+Descubra e corrija o problema 
+
+Questão 3
+Fazer com que o programa também tenha interação com o a tabela Cursos.
